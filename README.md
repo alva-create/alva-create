@@ -13,7 +13,7 @@
 ##
 
 <div align="center"
-style="display": inline_block><br>
+style= "inline_block"><br>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alva-create&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alva-create&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 <div>  
