@@ -12,14 +12,14 @@
 
 ##
 
-<div align="center"
+<div align="left"
 style= "inline_block"><br>
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alva-create&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alva-create&layout=compact&theme=chartreuse-dark&hide_border=true"/>
 <div>  
   
 ##
-<div
+<div align="left"
 style="display": inline_block><br>
 <img align= "center" alt="alva-create" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 <img align= "center" alt="alva-create" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
